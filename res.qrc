@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/pref">
+        <file>img/iconExit.ico</file>
+        <file>img/iconInfo.ico</file>
+        <file>img/iconNewGame.ico</file>
+        <file>img/tetris.ico</file>
+    </qresource>
+</RCC>
